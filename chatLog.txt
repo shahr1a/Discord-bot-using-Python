@@ -1,0 +1,420 @@
+Ryangotcancer[22:44] - Hello
+Hello
+Hello
+Hi
+Bye
+Hey
+Bye
+Hey
+Hoho
+Hello Ariyan
+Ryangotcancer[22:44] - My name is ariyan jahangir and I am from bangladesh. Hello World
+Tajwar[00:00] - Elon musk failed in class 10
+Tajwar[00:01] - From an trustful source
+Ryangotcancer[00:16] - Sdjkpadksadokaspdsakdsapo as[pdksaopdksaopdk
+Ryangotcancer[00:16] - !help
+Ryangotcancer[00:16] - !reader
+Py Bot[00:16] - Read Mode Turned On
+Ryangotcancer[00:17] - Beloved Bangladesh
+Ryangotcancer[00:17] - !reader
+Py Bot[00:17] - Read Mode Turned Off
+Ryangotcancer[00:18] - plot_test 2 5 6
+Ryangotcancer[00:18] - !plot_test 2 5 6
+Ryangotcancer[00:18] - !plot_test 2 5 6
+Py Bot[00:18] - 
+Ryangotcancer[00:19] - !plot_test 10 20 30
+Py Bot[00:19] - 
+Tajwar[00:20] - !plot_test 1 1 1
+Py Bot[00:20] - 
+Ryangotcancer[00:20] - !plot_test 1 0 1
+Py Bot[00:20] - 
+Tajwar[00:20] - !plot_test faisal bhai er business
+Py Bot[00:20] - 
+Ryangotcancer[00:21] - !plot_test Dada aar Akhi
+Py Bot[00:21] - 
+Ryangotcancer[00:23] - !plot_test Rahik Lily Tajwar Storm
+Py Bot[00:23] - 
+Ryangotcancer[00:24] - !plot_test 30 20 45 60
+Py Bot[00:24] - 
+Ryangotcancer[00:27] - !plot_test
+Py Bot[00:27] - 
+Ryangotcancer[00:28] - !plot_test
+Py Bot[00:28] - 
+Ryangotcancer[00:33] - !plot_test
+Py Bot[00:33] - 
+Ryangotcancer[00:34] - !plot_test
+Py Bot[00:34] - 
+Ryangotcancer[00:35] - !plot_test
+Py Bot[00:35] - 
+Ryangotcancer[00:36] - !plot_test
+Py Bot[00:36] - 
+Ryangotcancer[00:36] - !plot_test
+Py Bot[00:36] - 
+Ryangotcancer[00:37] - !plot_test
+Py Bot[00:37] - 
+Ryangotcancer[00:38] - !plot_test
+Py Bot[00:38] - 
+Ryangotcancer[00:39] - !reader
+Py Bot[00:39] - Read Mode Turned On
+Ryangotcancer[00:39] - Giving up on my dreams
+Ryangotcancer[00:39] - everyone is dead
+Ryangotcancer[00:39] - Given And Denied
+Ryangotcancer[00:39] - Road Kill
+Ryangotcancer[00:39] - !reader
+Py Bot[00:39] - Read Mode Turned Off
+Ryangotcancer[00:39] - !plot_test
+Py Bot[00:39] - 
+Ryangotcancer[00:51] - !plot words.csv
+Py Bot[00:51] - 
+Ryangotcancer[01:03] - !wordPlot
+Ryangotcancer[01:03] - !help
+Ryangotcancer[01:03] - !plotWords
+Py Bot[01:03] - 
+Ryangotcancer[01:03] - !plotWords
+Py Bot[01:03] - 
+Ryangotcancer[02:56] - !chat
+Py Bot[02:56] - Chat Mode Turned On
+Ryangotcancer[02:56] - Hello
+Py Bot[02:56] - Hi Ariyan
+Ryangotcancer[02:56] - Hello Bro
+Ryangotcancer[02:56] - !chat
+Py Bot[02:56] - Chat Mode Turned Off
+Ryangotcancer[02:56] - !plotWords
+Py Bot[02:56] - 
+Ryangotcancer[16:22] - !help
+Ryangotcancer[16:23] - !showDF
+Py Bot[16:23] - No Dataframe Loaded
+Ryangotcancer[16:23] - !wordGraph
+Py Bot[16:23] - 
+Ryangotcancer[16:23] - !load
+Ryangotcancer[16:25] - !load
+Py Bot[16:25] - Dataframe Loaded
+Ryangotcancer[16:25] - !showDF
+Ryangotcancer[16:28] - !unload
+Ryangotcancer[16:30] - !unload
+Ryangotcancer[16:30] - !load
+Py Bot[16:30] - Dataframe Loaded
+Ryangotcancer[16:30] - !unload
+Ryangotcancer[16:32] - !load
+Py Bot[16:32] - Dataframe Loaded
+Ryangotcancer[16:32] - !unload
+Ryangotcancer[16:35] - !unload
+Py Bot[16:35] - Dataframe Unloaded
+Ryangotcancer[16:37] - !unload
+Py Bot[16:37] - No Dataframe Loaded
+Ryangotcancer[16:37] - !load
+Py Bot[16:37] - Dataframe Loaded
+Ryangotcancer[16:37] - !unload
+Py Bot[16:37] - Dataframe Unloaded
+Ryangotcancer[16:37] - !load
+Py Bot[16:37] - Dataframe Loaded
+Ryangotcancer[16:37] - !chat
+Py Bot[16:37] - Chat Mode Turned On
+Ryangotcancer[16:37] - !chat
+Py Bot[16:37] - Chat Mode Turned Off
+Ryangotcancer[16:37] - !help
+Ryangotcancer[16:37] - !showDF
+Ryangotcancer[16:38] - !showDF
+Py Bot[16:38] - No Dataframe Loaded
+Ryangotcancer[16:38] - !load
+Py Bot[16:38] - Dataframe Loaded
+Ryangotcancer[16:38] - !showDF
+Ryangotcancer[16:41] - !clean
+Py Bot[16:41] - Dataframe Cleaned
+Ryangotcancer[16:41] - !showGraph
+Py Bot[16:41] - 
+Ryangotcancer[16:41] - !applyRegression
+Py Bot[16:41] - Regression Applied
+Ryangotcancer[16:41] - !showGraph
+Py Bot[16:41] - 
+Ryangotcancer[16:41] - !applyRegression
+Py Bot[16:41] - Regression Applied
+Ryangotcancer[16:41] - !showGraph
+Py Bot[16:41] - 
+Tajwar[16:49] - !unload
+Py Bot[16:49] - Dataframe Unloaded
+Tajwar[16:49] - !showGraph
+Py Bot[16:49] - No Dataframe Loaded To Show Graph
+Tajwar[16:49] - !load
+Py Bot[16:49] - Dataframe Loaded
+Tajwar[16:49] - !showGraph
+Py Bot[16:49] - Dataframe Needs To Be Cleaned First!
+Tajwar[16:49] - !clean
+Py Bot[16:49] - Dataframe Cleaned
+Tajwar[16:49] - !showGraph
+Py Bot[16:49] - 
+Tajwar[16:50] - !applyRegression
+Py Bot[16:50] - Regression Applied
+Tajwar[16:50] - !showGraph
+Py Bot[16:50] - 
+Ryangotcancer[16:55] - !load
+Py Bot[16:55] - Dataframe Loaded
+Ryangotcancer[16:55] - !clean
+Py Bot[16:55] - Dataframe Cleaned
+Ryangotcancer[16:55] - !applyRegression
+Py Bot[16:55] - Regression Applied
+Ryangotcancer[16:56] - !showGraph
+Py Bot[16:56] - 
+Ryangotcancer[17:05] - !load
+Py Bot[17:05] - Dataframe Loaded
+Ryangotcancer[17:05] - !clean
+Py Bot[17:05] - Dataframe Cleaned
+Ryangotcancer[17:05] - !showGraph
+Py Bot[17:05] - 
+Ryangotcancer[17:05] - !applyRegression
+Py Bot[17:05] - Regression Applied
+Ryangotcancer[17:05] - !showGraph
+Py Bot[17:05] - 
+Ryangotcancer[17:11] - !help
+Ryangotcancer[17:11] - !reader
+Py Bot[17:11] - Read Mode Turned On
+Ryangotcancer[17:11] - Hello
+Ryangotcancer[17:11] - Hey
+Ryangotcancer[17:11] - Hi
+Ryangotcancer[17:12] - Zafrin
+Ryangotcancer[17:12] - Nahin
+Ryangotcancer[17:12] - Ariyan
+Ryangotcancer[17:12] - Abir
+Ryangotcancer[17:12] - Abir
+Ryangotcancer[17:12] - Zafrin
+Ryangotcancer[17:12] - Nahin
+Ryangotcancer[17:13] - !wordGraph
+Py Bot[17:13] - 
+Ryangotcancer[17:13] - How Are You
+Ryangotcancer[17:13] - I am fine
+Ryangotcancer[17:13] - I am doing fine
+Ryangotcancer[17:13] - What about you
+Ryangotcancer[17:13] - how are you
+Ryangotcancer[17:13] - where are you
+Ryangotcancer[17:14] - where is nahin
+Ryangotcancer[17:14] - !help
+Ryangotcancer[17:14] - !chat
+Py Bot[17:14] - Chat Mode Turned On
+Ryangotcancer[17:14] - hello
+Ryangotcancer[17:14] - Hi
+Ryangotcancer[17:14] - !chat
+Ryangotcancer[17:15] - !chat
+Py Bot[17:15] - Chat Mode Turned Off
+Ryangotcancer[17:16] - Py Bot is a bot designed to use the numpy and pandas library of python to show graphs and apply regression and we hope to make it able to process machine learning classifiers in the future
+Ryangotcancer[17:17] - !wordGraph
+Py Bot[17:17] - 
+Ryangotcancer[17:21] - !wordGraph
+Ryangotcancer[17:23] - !wordGraph
+Ryangotcancer[17:29] - !wordGraph
+Ryangotcancer[17:31] - !wordGraph
+Ryangotcancer[17:34] - !wordGraph
+Ryangotcancer[17:35] - !wordGraph
+Ryangotcancer[17:36] - !wordGraph
+Ryangotcancer[17:40] - !wordGraph
+Ryangotcancer[17:41] - !wordGraph
+Ryangotcancer[17:43] - !wordGraph
+Py Bot[17:43] - 
+Ryangotcancer[17:44] - !wordGraph
+Py Bot[17:44] - 
+Nahin17[17:46] - 
+Py Bot[17:46] - Hi Nahin17, Welcome To Python Project Server!
+Nahin17[17:47] - !help
+Nahin17[17:47] - !load
+Py Bot[17:47] - Dataframe Loaded
+Nahin17[17:48] - !showGraph
+Py Bot[17:48] - Dataframe Needs To Be Cleaned First!
+Nahin17[17:48] - !clean
+Py Bot[17:48] - Dataframe Cleaned
+Nahin17[17:48] - !showGraph
+Py Bot[17:48] - 
+Nahin17[17:48] - !applyRegression
+Py Bot[17:48] - Regression Applied
+Nahin17[17:49] - !showGraph
+Py Bot[17:49] - 
+Ryangotcancer[17:49] - !reader
+Py Bot[17:49] - Read Mode Turned On
+Ryangotcancer[17:49] - !chat
+Py Bot[17:49] - Chat Mode Turned On
+Nahin17[17:49] - hello
+Py Bot[17:49] - Hello Nahin17
+Nahin17[17:50] - hi
+Py Bot[17:50] - Hi Nahin
+Ryangotcancer[17:50] - !chat
+Py Bot[17:50] - Chat Mode Turned Off
+Ryangotcancer[17:50] - Nahin ki obostha tor
+Nahin17[17:50] - how are you ariyan?
+Ryangotcancer[17:50] - I am fine
+Ryangotcancer[17:50] - what about you
+Ryangotcancer[17:51] - !wordGraph
+Py Bot[17:51] - 
+Ryangotcancer[17:51] - hi
+Ryangotcancer[17:51] - I read in university
+Ryangotcancer[17:51] - you read in school
+Ryangotcancer[17:52] - I am from chittagong
+Ryangotcancer[17:52] - Python
+Ryangotcancer[17:52] - Project
+Ryangotcancer[17:52] - this is a python project
+Ryangotcancer[17:52] - the name of the bot is Py Bot
+Ryangotcancer[17:52] - This bot is still in progress
+Ryangotcancer[17:52] - Hello everyone
+Ryangotcancer[17:52] - how is everyone doing
+Ryangotcancer[17:53] - it is a sunny day
+Ryangotcancer[17:53] - but the weather is chilly
+Ryangotcancer[17:53] - pleasant surprise
+Ryangotcancer[17:53] - Tokyo Ghoul
+Ryangotcancer[17:53] - Re Zero
+Ryangotcancer[17:53] - Anime
+Ryangotcancer[17:53] - Games
+Ryangotcancer[17:53] - !wordGraph
+Py Bot[17:53] - 
+Ryangotcancer[17:58] - winston is one of the most laid-back people i know he is tall and slim with black hair and he always wears a t-shirt and black jeans his jeans have holes in them and his baseball boots are scruffy too he usually sits at the back of the class and he often seems to be asleep however when the exam results are given out he always gets an A i don't think hes as lazy as he appears to be
+Ryangotcancer[18:00] - Here is the perfect system for cleaning your room First move all of the items that do not have a proper place to the centre of the room Get rid of at least five things that you have not used within the last year Take out all of the trash and place all of the dirty dishes in the kitchen sink Now find a location for each of the items you had placed in the centre of the room For any remaining items see if you can squeeze them in under your bed or stuff them into the back of your closet See that was easy
+Ryangotcancer[18:01] - Oceans and lakes have much in common but they are also quite different Both are bodies of water but oceans are very large bodies of salt water while lakes are much smaller bodies of fresh water Lakes are usually surrounded by land while oceans are what surround continents Both have plants and animals living in them The ocean is home to the largest animals on the planet whereas lakes support much smaller forms of life When it is time for a vacation both will make a great place to visit and enjoy
+Ryangotcancer[18:02] - The Blue Whales just played their first baseball game of the new season I believe there is much to be excited about Although they lost it was against an excellent team that had won the championship last year The Blue Whales fell behind early but showed excellent teamwork and came back to tie the game The team had 15 hits and scored 8 runs That's excellent Unfortunately they had 5 fielding errors which kept the other team in the lead the entire game The game ended with the umpire making a bad call and if the call had gone the other way the Blue Whales might have actually won the game It wasn't a victory but I say the Blue Whales look like they have a shot at the championship especially if they continue to improve
+Ryangotcancer[18:02] - !wordGraph
+Py Bot[18:02] - 
+Ryangotcancer[18:03] - Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello
+Ryangotcancer[18:03] - !wordGraph
+Py Bot[18:03] - 
+Ryangotcancer[18:05] - if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if
+Ryangotcancer[18:05] - !wordGraph
+Py Bot[18:05] - 
+Ryangotcancer[18:05] - of of of of of of of of of of
+Ryangotcancer[18:05] - Good Morning Good Morning Good Morning Good Morning Good Morning 
+Good Evening Good Evening Good Evening Good Evening Good Evening 
+Good Night Good Night Good Night Good Night Good Night Good Night
+Ryangotcancer[18:06] - !wordGraph
+Py Bot[18:06] - 
+Ryangotcancer[18:06] - winston is one of the most laid-back people i know he is tall and slim with black hair and he always wears a t-shirt and black jeans his jeans have holes in them and his baseball boots are scruffy too he usually sits at the back of the class and he often seems to be asleep however when the exam results are given out he always gets an A i don't think hes as lazy as he appears to be
+Here is the perfect system for cleaning your room First move all of the items that do not have a proper place to the centre of the room Get rid of at least five things that you have not used within the last year Take out all of the trash and place all of the dirty dishes in the kitchen sink Now find a location for each of the items you had placed in the centre of the room For any remaining items see if you can squeeze them in under your bed or stuff them into the back of your closet See that was easy
+Oceans and lakes have much in common but they are also quite different Both are bodies of water but oceans are very large bodies of salt water while lakes are much smaller bodies of fresh water Lakes are usually surrounded by land while oceans are what surround continents Both have plants and animals living in them The ocean is home to the largest animals on the planet whereas lakes support much smaller forms of life When it is time for a vacation both will make a great place to visit and enjoy
+Ryangotcancer[18:06] - !wordGraph
+Py Bot[18:06] - 
+Ryangotcancer[18:13] - !reader
+Py Bot[18:13] - Read Mode Turned On
+Ryangotcancer[18:13] - Forty one years ago on Planet Vegeta home of the infamous Saiyan warrior race King Vegeta noticed a baby named Broly whose latent power exceeded that of his own son Believing that Brolys power would one day surpass that of his child Vegeta the king sends Broly to the desolate planet Vampa Brolys father Paragus follows after him intent on rescuing his son However his ship gets damaged causing the two to spend years trapped on the barren world unaware of the salvation that would one day come from an unlikely ally
+
+Years later on Earth Gokuu Son and Prince Vegeta believed to be the last survivors of the Saiyan race are busy training on a remote island But their sparring is interrupted when the appearance of their old enemy Frieza drives them to search for the last of the wish granting Dragon Balls on a frozen continent Once there Frieza shows off his new allies Paragus and the now extremely powerful Broly A legendary battle that shakes the foundation of the world ensues as Goku and Vegeta face off against Broly a warrior without equal whose rage is just waiting to be unleashed
+Ryangotcancer[18:16] - When Subaru Natsuki leaves the convenience store the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world Things arent looking good for the bewildered teenager however not long after his arrival he is attacked by some thugs Armed with only a bag of groceries and a now useless cell phone he is quickly beaten to a pulp Fortunately a mysterious beauty named Satella in hot pursuit after the one who stole her insignia happens upon Subaru and saves him In order to thank the honest and kindhearted girl Subaru offers to help in her search and later that night he even finds the whereabouts of that which she seeks But unbeknownst to them a much darker force stalks the pair from the shadows and just minutes after locating the insignia Subaru and Satella are brutally murdered
+
+However Subaru immediately re awakens to a familiar scene confronted by the same group of thugs meeting Satella all over again the enigma deepens as history inexplicably repeats itself
+Ryangotcancer[18:16] - !wordGraph
+Py Bot[18:16] - 
+Ryangotcancer[19:08] - !help
+Ryangotcancer[19:09] - !load
+Py Bot[19:09] - Dataframe Loaded
+Ryangotcancer[19:10] - ! clean
+Ryangotcancer[19:10] - !clean
+Py Bot[19:10] - Dataframe Cleaned
+Ryangotcancer[19:10] - !showGraph
+Py Bot[19:10] - 
+Ryangotcancer[19:10] - !applyRegression
+Py Bot[19:10] - Regression Applied
+Ryangotcancer[19:11] - !showGraph
+Py Bot[19:11] - 
+Shahriar[20:05] - 
+Py Bot[20:05] - Hi Shahriar, Welcome To Python Project Server!
+Ryangotcancer[20:05] - !applyRegression
+Py Bot[20:05] - Regression Applied
+Ryangotcancer[20:05] - !showGraph
+Py Bot[20:05] - 
+Ryangotcancer[20:06] - !wordGraph
+Py Bot[20:06] - 
+Ryangotcancer[20:06] - !help
+Ryangotcancer[20:07] - !unload
+Py Bot[20:07] - Dataframe Unloaded
+Ryangotcancer[20:07] - !load
+Py Bot[20:07] - Dataframe Loaded
+Ryangotcancer[20:07] - !showGraph
+Py Bot[20:07] - Dataframe Needs To Be Cleaned First!
+Ryangotcancer[20:08] - !clean
+Py Bot[20:08] - Dataframe Cleaned
+Ryangotcancer[20:08] - !showGraph
+Py Bot[20:08] - 
+Ryangotcancer[20:08] - !applyRegression
+Py Bot[20:08] - Regression Applied
+Ryangotcancer[20:08] - !showGraph
+Py Bot[20:08] - 
+Ryangotcancer[20:15] - !reader
+Py Bot[20:15] - Read Mode Turned On
+Ryangotcancer[20:16] - !reader
+Py Bot[20:16] - Read Mode Turned Off
+Ryangotcancer[20:16] - hello
+Ryangotcancer[20:16] - !chat
+Py Bot[20:16] - Chat Mode Turned On
+Ryangotcancer[20:16] - hello
+Py Bot[20:16] - Hello Ariyan
+Ryangotcancer[20:17] - !chat
+Py Bot[20:17] - Chat Mode Turned Off
+Ryangotcancer[20:17] - !list
+Py Bot[20:17] - Server Members:
+ - Py Bot
+ - Ryangotcancer
+ - Tajwar
+ - Nahin17
+ - jisunaurnob
+ - Hamid
+ - Zafrin
+ - Shahriar
+Ryangotcancer[20:17] - !wordGraph
+Py Bot[20:17] - 
+Ryangotcancer[20:24] - !unload
+Py Bot[20:24] - Dataframe Unloaded
+Ryangotcancer[20:24] - !load
+Py Bot[20:24] - Dataframe Loaded
+Ryangotcancer[20:37] - !load
+Py Bot[20:37] - Dataframe Loaded
+Ryangotcancer[20:37] - !showDF
+Py Bot[20:37] - 
+Ryangotcancer[20:38] - !clean
+Py Bot[20:38] - Dataframe Cleaned
+Ryangotcancer[20:38] - !showDF
+Py Bot[20:38] - 
+Ryangotcancer[20:39] - !load
+Py Bot[20:39] - Dataframe Loaded
+Ryangotcancer[20:40] - !showDF
+Py Bot[20:40] - 
+Ryangotcancer[21:22] - !load
+Py Bot[21:22] - Dataframe Loaded
+Ryangotcancer[21:22] - !showDF
+Py Bot[21:22] - 
+Ryangotcancer[21:22] - !clean
+Py Bot[21:22] - Dataframe Cleaned
+Ryangotcancer[21:22] - !showDF
+Py Bot[21:22] - 
+Ryangotcancer[21:26] - !load
+Py Bot[21:26] - Dataframe Loaded
+Ryangotcancer[21:26] - !showDF
+Ryangotcancer[21:27] - !load
+Py Bot[21:27] - Dataframe Loaded
+Ryangotcancer[21:27] - !showDF
+Py Bot[21:27] - 
+Py Bot[21:27] - 
+Ryangotcancer[21:27] - !clean
+Py Bot[21:27] - Dataframe Cleaned
+Ryangotcancer[21:27] - !showDF
+Py Bot[21:27] - 
+Py Bot[21:27] - 
+Shahriar[00:56] - !chat
+Py Bot[00:56] - Chat Mode Turned On
+Shahriar[00:56] - hello
+Py Bot[00:56] - Hello Shahriar
+Shahriar[00:56] - !chat
+Py Bot[00:56] - Chat Mode Turned Off
+Shahriar[02:22] - !load
+Py Bot[02:22] - Dataframe Loaded
+Shahriar[02:22] - !clean
+Py Bot[02:22] - Dataframe Cleaned
+Shahriar[02:22] - !showGraph
+Py Bot[02:22] - 
+Shahriar[02:22] - !applyRegression
+Py Bot[02:22] - Regression Applied
+Shahriar[02:22] - !showGraph\
+Shahriar[02:23] - !showGraph
+Py Bot[02:23] - 
+Shahriar[02:23] - !showDF
+Py Bot[02:23] - 
+Py Bot[02:23] - 
+Shahriar[02:28] - !read
+Shahriar[02:28] - !reader
+Py Bot[02:28] - Read Mode Turned On
+Shahriar[02:28] - !reader
+Py Bot[02:28] - Read Mode Turned Off
+Shahriar[02:28] - !wordGraph
+Py Bot[02:28] - 
+Shahriar[14:11] - !help
